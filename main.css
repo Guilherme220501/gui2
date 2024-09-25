@@ -9,3 +9,4 @@ thead{font-size: 20px;font-family: 'Times New Roman', Times, serif;font-style: i
 tbody{font-size: 15px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-style: initial;text-shadow: 6px;text-align: left;}
 tfoot{font-size: 20px;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-style: initial;text-shadow: 6px;text-align: left;}
 summary{text-shadow: 6px;margin: auto;width: 230px;border-radius: 10px 10px;}
+a{border-radius: 10px 10px;}
